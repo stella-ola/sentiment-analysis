@@ -9,4 +9,6 @@ HELLO, This is a Sentiment Analysis project using Natural Language Processing(NL
 6.	Cleaning of the data(removing punctuations and stop words) and converting it to an array
 7.	Testing and training of the data that has been cleaned and converted to an array
 8.	Visualization of confusion matrix with seaborn heatmap
+
+
 this same steps apply to the amazon review feedback sentiment analysis but the only different thing is that two models were trained and tested and comared,the nave bays model and the logistic regression,
