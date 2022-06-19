@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment-Analysis
 Twitter sentiment analysis with NLP and amazon feedback sentiment analysis
 HELLO, This is a Sentiment Analysis project using Natural Language Processing(NLP). Here data was obtained from Kaggle which contained the tweets(tweets made by thousands of people), labels(the sentiment of people which are in zero's (0) and one's (1) where zero means the person is angry or sad or basically something negative while the one means a positive tweet and the id(which of course is irrelevant to us). The aim of this project is to use the Naive Bays model to test and train the dataset to find the unknown class(data) prediction the steps are taken are:
 1.	install packages necessary for the completion of this project(word cloud, Jupyter themes,nltk)
@@ -11,4 +11,4 @@ HELLO, This is a Sentiment Analysis project using Natural Language Processing(NL
 8.	Visualization of confusion matrix with seaborn heatmap
 
 
-this same steps apply to the amazon review feedback sentiment analysis but the only different thing is that two models were trained and tested and comared,the nave bays model and the logistic regression,
+This same steps apply to the amazon review feedback sentiment analysis but the only different thing is that two models were trained and tested and comared,the nave bays model and the logistic regression,
